@@ -1,0 +1,1 @@
+{"name": "Ipl-fantasy", "version": "1.0.0", "description": "An IPL Fantasy application","main": "index.js","scripts": {"test": "echo \"Error: no test specified\" && exit 1},"repository": {"type": "git", "url": "https://github.com/kostabbhattacharya-lab/Ipl-fantasy.git"},"author": "kostabbhattacharya-lab","license": "ISC"}
